@@ -1,2 +1,2 @@
-#!bin/bash
-echo "Preprocessor"
+#!/bin/bash
+"$CFILE C"
