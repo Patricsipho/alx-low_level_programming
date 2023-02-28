@@ -14,8 +14,8 @@ void puts2(char *str)
 		if ((i % 2) == 0)
 		_putchar(str[i]);
 
-		else
-			continue;
+	else
+		continue;
 	}
 	_putchar('\n');
 }
