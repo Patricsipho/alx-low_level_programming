@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_10 - prints alphs 10 times
+ * print_alphabet_x10 - prints alphs 10 times
  */
 void print_alphabet_x10(void)
 {
@@ -15,4 +15,5 @@ void print_alphabet_x10(void)
 	_putchar(la);
 
 	_putchar('\n');
+	}
 }
